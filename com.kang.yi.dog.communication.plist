@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DingyueShowMianFeiThreeDays</key>
+	<true/>
+	<key>CoverInterstalCloseButtonRandomCount</key>
+	<integer>8</integer>
+	<key>CoverInterstalCloseButton</key>
+	<true/>
+	<key>RateLockEnable</key>
+	<false/>
+	<key>showNativeAdFirst</key>
+	<true/>
+	<key>Native250RandomCount</key>
+	<integer>20</integer>
+	<key>CloseButtonCoverNavite250</key>
+	<true/>
+	<key>HasWarning</key>
+	<false/>
+</dict>
+</plist>
